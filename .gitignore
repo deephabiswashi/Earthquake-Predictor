@@ -1,0 +1,27 @@
+# Python bytecode
+__pycache__/
+*.py[cod]
+
+# Virtual environment
+venv1/
+
+# Jupyter Notebook checkpoints
+.ipynb_checkpoints/
+
+# Data (CSV files, etc.)
+datasets/
+
+# Saved model files
+notebook/saved_models_scalar/
+*.keras
+*.pkl
+*.h5
+
+# Logs
+*.log
+
+# OS-specific files
+.DS_Store
+
+# Environment variables
+.env
